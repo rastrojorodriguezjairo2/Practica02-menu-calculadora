@@ -1,0 +1,1 @@
+En esta práctica vamos a crear un menú el cual nos permitira dependiendo de la opción que escojamos hacer diferentes operaciones matemáticas, es decir una calculadora.

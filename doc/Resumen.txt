@@ -1,0 +1,3 @@
+En esta segunda práctica vamos a crear un proyecto el cual 
+nos dara 5 opciones a elegir, cuatro de ellas operaciones 
+matemáticas que se resolveran siguiendo los pasos indicados.
